@@ -15,5 +15,3 @@
 `git commit -m "<message>"` - Creates a commit with the <message> of all staged files
 
 `git push` - Sends your commits to github
-
-Hi this is Michael.
