@@ -2,9 +2,13 @@
 
 `ls` - List all current files in your current directory
 
-`cd` - Change directory
+`cd <directory>` - Change directory, go into <directory> folder
 
 `cd ..` - Go back one level
+
+`cd ~` Go to home directory
+
+`pwd` - Lists where you currently are
 
 ## Some git commands you'll use frequently:
 
